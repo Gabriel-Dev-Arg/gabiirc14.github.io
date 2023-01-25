@@ -1,0 +1,29 @@
+
+[{
+    "id": 1,
+    "nombre": "Camiseta de entrenamiento",
+    "precio": 10000,
+    "cantidad": 1,
+    "img" : "/bostrap/assets/entrenamiento_racing.jpg"
+
+},{
+    "id": 2,
+    "nombre": "Shoggin de entrenamiento",
+    "cantidad": 1,
+    "precio": 12000,
+    "img" : "/bostrap/assets/pantalon_racing.jpg"
+},{
+    "id": 3,
+    "nombre": "Campera de entrenamiento",
+    "cantidad": 1,
+    "precio": 10000,
+    "img": "/bostrap/assets/campera_racing.jpg"
+},{
+    "id": 4,
+    "nombre": "Camiseta oficial copa de trofeo 2022",
+    "precio": 15000,
+    "cantidad": 1,
+    "img": "/bostrap/assets/campeon.jpg"
+}
+] 
+

@@ -1,0 +1,42 @@
+
+.img-thumbnail{
+    border: 0;
+    margin: 10px;
+}
+
+.nav_black {
+   background-color: blue; 
+}
+html, body {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+
+.img-compra{
+   font-size: 30px;
+}
+
+.img-carrito{
+    width: 200px;
+    padding: 20px;
+}
+
+.modal-contenedor{
+    display: flex;
+    align-items: center;
+}
+
+.centrado{
+    justify-content: center;
+    flex: auto;
+    width: 10px;
+}
+.edit_titulo{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+
+.buttonComprar{
+    width: 100%;
+}
